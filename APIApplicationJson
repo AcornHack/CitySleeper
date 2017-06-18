@@ -1,0 +1,6 @@
+{
+"coffee": "$input.params('coffee')",
+"coffeeAmount": "$input.params('coffeeAmount')",
+"pain": "$input.params('pain')",
+"canSleep": "$input.params('canSleep')"
+}
